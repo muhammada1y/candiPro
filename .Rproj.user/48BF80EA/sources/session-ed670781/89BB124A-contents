@@ -1,0 +1,35 @@
+/*-- scss:defaults --*/
+
+
+/*-- colours to use later --*/
+$white:    #fff;
+$dark-grey: #121212;
+$gray-100: #f8f9fa;
+$gray-200: #e9ecef;
+$gray-300: #dee2e6;
+$gray-400: #ced4da;
+$gray-500: #aea79f;
+$gray-600: #868e96;
+$gray-700: #495057;
+$gray-800: #333;
+$gray-900: #212529;
+$black:    #000;
+$primary: #bb4430;
+$secondary: #F3DFA2;
+$tertiary: #0D5C63;
+
+// body
+
+$body-bg: $dark-grey;
+
+// text
+
+$body-color: $white; 
+
+// Fonts
+
+// stylelint-disable-next-line value-keyword-case
+$font-family-sans-serif:      Ubuntu, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+
+
+/*-- scss:rules --*/

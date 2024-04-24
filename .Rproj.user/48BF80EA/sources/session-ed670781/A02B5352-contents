@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+title: "Educational Disparity by Continent Report: Factors and Effects" 
+author: "Aya Derouiche"
+date: "2024-04-25"
+format:
+  html:
+    title-block-banner: "#f0f3f5"
+    title-block-banner-color: "black"
+    theme : final_theme.scss
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    css: style.css
+    grid:
+      sidebar-width: 100px
+      body-width: 2000px
+      margin-width: 300px
+      gutter-width: 1.5rem
